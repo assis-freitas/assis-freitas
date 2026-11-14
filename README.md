@@ -8,9 +8,9 @@
 ```yaml
 assis:
   papel: Dev full-stack
-  no_dia_a_dia: [Laravel, Vue 3, Spring Boot, PostgreSQL, Docker]
-  agora: construindo produtos que usam IA de verdade (Spring AI, LLMs)
-  bora_conversar_sobre: [arquitetura web, Laravel + Inertia, Spring, integração com LLMs]
+  stack: [Laravel, Vue 3, Spring Boot, PostgreSQL]
+  agora: produtos com IA (Spring AI, LLMs)
+  papo: [arquitetura web, Laravel, Spring, LLMs]
 ```
 
 ### 🧰 Stack
