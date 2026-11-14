@@ -11,7 +11,7 @@
 ```yaml
 assis:
   papel: Engenheiro de software sênior
-  experiencia: 10+ anos, de sistemas de missão crítica no mercado financeiro a produtos próprios
+  experiencia: 10+ anos, sistemas de missão crítica
   stack: [Java, Spring Boot, PHP, Laravel, Vue, Angular]
   projetos_pessoais: produtos com IA (Spring AI, LLMs)
   site: https://assisfreitas.dev   # também em inglês e espanhol
