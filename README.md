@@ -1,33 +1,47 @@
-# Olá, eu sou o Assis 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Assis de Freitas, dev full-stack: Laravel, Vue, Spring Boot e IA" src="assets/banner-light.svg" width="100%">
+</picture>
 
-Dev full-stack. Trabalho principalmente com **Laravel + Vue** e **Spring Boot**, e ultimamente venho construindo produtos que usam IA no dia a dia.
+<br>
 
-- 🔨 Atualmente construindo o **Chico AI**, um assistente pessoal com agenda, e-mail, lembretes e digest de notícias
-- 📚 E o **IA Learn**, uma plataforma de aprendizado multi-tenant
-- 💬 Pode falar comigo sobre Laravel, Vue, Spring, Docker e integração com LLMs
+```yaml
+assis:
+  papel: Dev full-stack
+  no_dia_a_dia: [Laravel, Vue 3, Spring Boot, PostgreSQL, Docker]
+  agora: construindo produtos que usam IA de verdade (Spring AI, LLMs)
+  bora_conversar_sobre: [arquitetura web, Laravel + Inertia, Spring, integração com LLMs]
+```
 
-## Stack
+### 🧰 Stack
 
-**Back-end:** PHP (Laravel) · Java (Spring Boot, Spring AI) · PostgreSQL · Redis<br>
-**Front-end:** Vue 3 · TypeScript · Inertia · Tailwind · Pinia<br>
-**Infra:** Docker / Docker Compose · Caddy · GitHub Actions
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,vue,ts,tailwind,postgres,redis,docker&perline=10" alt="PHP, Laravel, Java, Spring, Vue, TypeScript, Tailwind, PostgreSQL, Redis, Docker">
+</p>
 
-[![Stack](https://skillicons.dev/icons?i=php,laravel,java,spring,vue,ts,tailwind,postgres,redis,docker)](https://skillicons.dev)
+### 🔨 No que estou trabalhando
 
-## Projetos abertos
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-chico-ai-dark.svg">
+    <img alt="Chico AI: assistente pessoal (privado)" src="assets/card-chico-ai-light.svg" width="32%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-ia-learn-dark.svg">
+    <img alt="IA Learn: plataforma de aprendizado (privado)" src="assets/card-ia-learn-light.svg" width="32%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-token-converter-dark.svg">
+    <img alt="TokenConverter: conversão de tokens (privado)" src="assets/card-token-converter-light.svg" width="32%">
+  </picture>
+</p>
+
+### 🚀 Projetos abertos
 
 <!-- Adicione aqui os projetos de vitrine conforme forem ficando prontos. -->
 
-| Projeto | O que é | Stack | Demo |
-|---|---|---|---|
-| _em breve_ | | | |
+> Em breve: projetos pequenos, completos e com demo no ar.
 
-## No que estou trabalhando (privado)
+<br>
 
-- **Chico AI**: assistente pessoal com dashboard e interface conversacional (Google Calendar, Gmail, lembretes, digest de notícias). _Vue 3, Spring Boot 3.4, Spring AI, PostgreSQL, Redis_
-- **IA Learn**: plataforma de aprendizado multi-tenant com controle de permissões. _Laravel 13, Inertia + Vue, PostgreSQL, MinIO_
-- **TokenConverter**: calculadora de conversão de tokens com contas de pagamento e comprovantes. _Laravel, Vue, TypeScript, Docker_
-
----
-
-<sub>Projetos antigos (2015–2021) estão arquivados. O que estou fazendo agora está acima.</sub>
+<sub>Projetos antigos (2015–2021) estão arquivados.</sub>
