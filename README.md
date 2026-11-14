@@ -47,6 +47,7 @@ assis:
 | Projeto | O que é |
 |---|---|
 | [**Estante**](https://github.com/assis-freitas/estante) | Biblioteca pessoal: cadastre livros pelo ISBN e acompanhe suas leituras. Laravel, Inertia e Vue, com DDD pragmático e regras de arquitetura garantidas por testes. |
+| [**Balcão**](https://github.com/assis-freitas/balcao) | Gestão de caixa para pequenos comércios: entradas, saídas e estornos. Spring Boot 4 e Angular, com DDD, arquitetura hexagonal e Spring Modulith. |
 | [**assisfreitas.dev**](https://github.com/assis-freitas/assisfreitas.dev) | Meu site pessoal, em português, inglês e espanhol. Feito com Astro e servido por nginx em Docker. |
 
 <br>
