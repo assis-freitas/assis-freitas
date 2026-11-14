@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="226" viewBox="0 0 400 226">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#42b883"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><clipPath id="r"><rect width="400" height="226" rx="14"/></clipPath></defs>
-  <g clip-path="url(#r)"><rect width="400" height="226" fill="#161b22"/><rect width="400" height="4" fill="url(#g)"/></g>
-  <rect x="0.5" y="0.5" width="399" height="225" rx="14" fill="none" stroke="#30363d"/>
-  <text x="28" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30">🤖</text>
-  <text x="70" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#e6edf3">Chico AI</text>
-  <rect x="300" y="44" width="74" height="24" rx="12" fill="none" stroke="#30363d"/>
-  <text x="337" y="61" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">privado</text>
-  <text x="28" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">Assistente pessoal: agenda, e-mail,</text><text x="28" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">lembretes e digest de notícias.</text>
-  <rect x="28" y="176" width="60" height="26" rx="13" fill="#1f2937"/><text x="58.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Vue 3</text><rect x="96" y="176" width="90" height="26" rx="13" fill="#1f2937"/><text x="141.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Spring AI</text><rect x="194" y="176" width="82" height="26" rx="13" fill="#1f2937"/><text x="235.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#c9d1d9">Postgres</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="228" viewBox="0 0 400 228">
+  <rect x="6" y="6" width="393" height="221" rx="12" fill="#ede7da"/>
+  <rect x="0.5" y="0.5" width="393" height="221" rx="12" fill="#1e1c19" stroke="#ede7da"/>
+  <rect x="1" y="1" width="64" height="3" fill="#f0743a"/>
+  <rect x="26" y="34" width="40" height="40" rx="9" fill="#1a1916" stroke="#34302a"/>
+  <g transform="translate(35 43) scale(0.9167)" fill="none" stroke="#f0743a" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/></g>
+  <text x="80" y="63" font-family="Fraunces, 'Iowan Old Style', 'Palatino Linotype', Georgia, serif" font-size="24" font-weight="600" fill="#ede7da">Chico AI</text>
+  <rect x="298" y="41" width="70" height="23" rx="11.5" fill="none" stroke="#34302a"/>
+  <text x="333" y="57" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#a59d8e">privado</text>
+  <text x="26" y="110" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#a59d8e">Assistente pessoal: agenda, e-mail,</text><text x="26" y="133" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#a59d8e">lembretes e digest de notícias.</text>
+  <rect x="26" y="174" width="59" height="25" rx="12.5" fill="#2a2723"/><text x="55.5" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a59d8e">Vue 3</text><rect x="92" y="174" width="89" height="25" rx="12.5" fill="#2a2723"/><text x="136.5" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a59d8e">Spring AI</text><rect x="188" y="174" width="82" height="25" rx="12.5" fill="#2a2723"/><text x="229.0" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a59d8e">Postgres</text>
 </svg>

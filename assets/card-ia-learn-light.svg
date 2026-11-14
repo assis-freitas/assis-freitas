@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="226" viewBox="0 0 400 226">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#42b883"/><stop offset="1" stop-color="#3b82f6"/></linearGradient><clipPath id="r"><rect width="400" height="226" rx="14"/></clipPath></defs>
-  <g clip-path="url(#r)"><rect width="400" height="226" fill="#f6f8fa"/><rect width="400" height="4" fill="url(#g)"/></g>
-  <rect x="0.5" y="0.5" width="399" height="225" rx="14" fill="none" stroke="#d0d7de"/>
-  <text x="28" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30">📚</text>
-  <text x="70" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#1f2328">IA Learn</text>
-  <rect x="300" y="44" width="74" height="24" rx="12" fill="none" stroke="#d0d7de"/>
-  <text x="337" y="61" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#59636e">privado</text>
-  <text x="28" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#59636e">Plataforma de aprendizado</text><text x="28" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#59636e">multi-tenant com permissões.</text>
-  <rect x="28" y="176" width="98" height="26" rx="13" fill="#eef1f4"/><text x="77.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#33393f">Laravel 13</text><rect x="134" y="176" width="75" height="26" rx="13" fill="#eef1f4"/><text x="171.5" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#33393f">Inertia</text><rect x="217" y="176" width="44" height="26" rx="13" fill="#eef1f4"/><text x="239.0" y="194" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#33393f">Vue</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="228" viewBox="0 0 400 228">
+  <rect x="6" y="6" width="393" height="221" rx="12" fill="#1c1a17"/>
+  <rect x="0.5" y="0.5" width="393" height="221" rx="12" fill="#faf7f0" stroke="#1c1a17"/>
+  <rect x="1" y="1" width="64" height="3" fill="#c2410c"/>
+  <rect x="26" y="34" width="40" height="40" rx="9" fill="#ebe5d8" stroke="#d8d0bf"/>
+  <g transform="translate(35 43) scale(0.9167)" fill="none" stroke="#c2410c" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></g>
+  <text x="80" y="63" font-family="Fraunces, 'Iowan Old Style', 'Palatino Linotype', Georgia, serif" font-size="24" font-weight="600" fill="#1c1a17">IA Learn</text>
+  <rect x="298" y="41" width="70" height="23" rx="11.5" fill="none" stroke="#d8d0bf"/>
+  <text x="333" y="57" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#655e53">privado</text>
+  <text x="26" y="110" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#655e53">Plataforma de aprendizado</text><text x="26" y="133" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" fill="#655e53">multi-tenant com permissões.</text>
+  <rect x="26" y="174" width="97" height="25" rx="12.5" fill="#e6dfd0"/><text x="74.5" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#655e53">Laravel 13</text><rect x="130" y="174" width="74" height="25" rx="12.5" fill="#e6dfd0"/><text x="167.0" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#655e53">Inertia</text><rect x="211" y="174" width="44" height="25" rx="12.5" fill="#e6dfd0"/><text x="233.0" y="191" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#655e53">Vue</text>
 </svg>
